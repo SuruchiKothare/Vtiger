@@ -57,3 +57,11 @@
 <p>My location is vapi </p>
 
 </html>
+
+
+driver.manage().window().maximize();
+driver.manage().window().fullscreen();
+driver.manage().window().minimize();
+driver.manage().window().setposition();
+driver.manage().window().getposition();
+
